@@ -19,7 +19,8 @@
     // 循环就是不停的做同一件事件
 </script>
  ```
-<script>
+ 
+> <script>
     // 1. 获得要操作的对象
     var inputs = document.getElementsByTagName("input");
     // 遇排它，必循环 双层循环(嵌套循环)
